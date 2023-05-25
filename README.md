@@ -2,7 +2,8 @@
 
 first clone the code 
 vy using git clone url
-ls to check the fiel cloned
+ls to check the fiel cloned  
+compile using mvn tools
 
 next complie the code
 mvn clean install
