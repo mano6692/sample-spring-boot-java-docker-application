@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: mano6692/mano6692/jen-java-app
+        image: mano6692/java-app-v1.25
         ports:
         - containerPort: 8080
 ---
