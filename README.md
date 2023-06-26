@@ -10,3 +10,4 @@ use docker tag and rename the name to dockerhub
 push the image to docker hub
 
 deploy the yml file to depoly the k8s pods
+lets check the pods
