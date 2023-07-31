@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage ('git-checkout') {
+        stage ('git-clone') {
             steps {
                 git branch: 'main', credentialsId: 'GIT_CREDENTIALS', url: 'https://github.com/mano6692/sample-spring-boot-java-docker-application.git'
             }
