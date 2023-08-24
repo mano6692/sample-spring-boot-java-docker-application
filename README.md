@@ -12,6 +12,6 @@ push the image to docker hub
 deploy the yml file to depoly the k8s pods
 lets check the pods
 
-chexking for github update 
+checking for github update 
 
 restesting 
